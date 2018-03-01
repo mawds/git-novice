@@ -52,5 +52,3 @@ The slide deck [used in this course](http://slides.com/gcapes/git#/3) is taken f
 
 
 
-
-
