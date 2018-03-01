@@ -161,3 +161,15 @@ You should make a habit of always pulling from the remote repository
 > > "`git push`" sends those changes to the remote copy of the repository
 > {: .solution}
 {: .challenge}
+
+
+> ## Caching your password
+> 
+> You can avoid having to retype your password every time you 
+> push a commit.  The command needed to do this will depend on 
+> which operating system you are using.
+> 
+> For futher details see [this question](https://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github) on stackoverflow.
+> 
+{: .callout}
+
