@@ -47,3 +47,8 @@ to be shared can and should be stored in a version control system.
 > Some previous experience with the shell is expected,
 > *but isn't mandatory*.
 {: .prereq}
+
+The slide deck [used in this course](http://slides.com/gcapes/git#/3) is taken from [Research IT's full day git course](http://app.manchester.ac.uk/rgit), taught by [Gerard Capes](https://github.com/gcapes/).
+
+
+
