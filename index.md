@@ -48,7 +48,7 @@ to be shared can and should be stored in a version control system.
 > *but isn't mandatory*.
 {: .prereq}
 
-The slide deck [used in this course](http://slides.com/gcapes/git#/3) is taken from [Research IT's full day git course](http://app.manchester.ac.uk/rgit), taught by [Gerard Capes](https://github.com/gcapes/).
+The slide deck [used in this course](http://slides.com/gcapes/git#/3) is taken from [Research IT's full day git course](http://app.manchester.ac.uk/rgit), taught by [Gerard Capes](https://github.com/gcapes/).  The course is from https://biologyguy.github.io/git-novice/, which is based on the [Software Carpentry git course](http://swcarpentry.github.io/git-novice).
 
 
 
